@@ -3,12 +3,7 @@
 
 ![Atliqo](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/6f2841a6-da90-4625-b55f-6f05ffc9ce40) 
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDMwNGY2ZWYtZGYxNy00ZTBjLTkyYmMtZmRlYzY3MDRiZDNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-[Link to the video presentation](https://www.linkedin.com/feed/update/urn:li:activity:7097918486865227778/)
-
-
-Welcome to the AtliQo 5G Analysis ! In this Readme, i am providing a concise overview of the dataset and the task undertaken by me Manisha Deepshikha Patra,junior data analyst.My mission is to create a comprehensive comparison report of key performance indicators (KPIs) between the pre and post-launch periods of AtliQo's 5G services, aiding the top-level management in making informed decisions to recover active user rates and enhance other vital metrics.
+Welcome to the AtliQo 5G Analysis ! In this Readme, i am providing a concise overview of the dataset and the task undertaken by me Saurav Kumar,Data analyst.My mission is to create a comprehensive comparison report of key performance indicators (KPIs) between the pre and post-launch periods of AtliQo's 5G services, aiding the top-level management in making informed decisions to recover active user rates and enhance other vital metrics.
 
 **Dataset Overview:**
 
@@ -92,28 +87,28 @@ Join us on this exhilarating voyage through the dynamic 5G landscape, where data
 
 Join us on this data-driven journey towards a brighter future for AtliQo! 🚀
 # Dashboard Home Page
-![Home T](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/18c37b57-f39f-499d-aa76-511cbea3c5cb)
+![Home T](https://github.com/user-attachments/assets/02e233c6-c746-4bb0-bee9-c1e3b4e41cf0)
 
 # Key Metrics Overview
-![Key Metrics T](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/ba088216-77e3-440b-8e3c-b16c49d7c9c1)
+![Key Metrics T](https://github.com/user-attachments/assets/e99c761d-f1c3-4cbe-b768-5ebe74250b9b)
 
 # 5G Impact Analysis
-![5G Impact Analysis T](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/8991dc7c-c6cb-44d7-9df5-47f6fdbce2fd)
+![5G Impact Analysis T](https://github.com/user-attachments/assets/ea3abc37-f860-442c-b1d9-98dfc23b24d0)
 
 # Plan Revenue Analysis
-![Plan Revenue Analysis T](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/0c1124c1-c3b0-42a7-8187-5372bc9d7f67)
+![Plan Revenue Analysis T](https://github.com/user-attachments/assets/5635bce9-581a-4845-a0f1-11e6c03e4fc9)
 
 # Market Share Analysis
-![Market Share Analysis T](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/ba0790d9-54db-4dbc-aa97-2a1762ffa368)
+![Market Share Analysis T](https://github.com/user-attachments/assets/8a44bd7a-fb5d-4889-8cc5-65a03a339122)
 
 # User Engagement Analysis
-![UTT](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/f765dd15-f7e4-4955-a737-e7dc6361ed5f)
+![UEA](https://github.com/user-attachments/assets/b8bd9260-3ddd-45f5-8cde-37fc57eb94ce)
 
 # Insights-1
-![IF1](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/86571a9a-e825-4c62-b7ab-bb854e02ca32)
+![IF1](https://github.com/user-attachments/assets/23106880-d0f2-4e77-b067-b58b3cb8a2ed)
 
 # Insights-2
-![IF2](https://github.com/Deepshikhagithub/AtliQo-5G-Insights/assets/121179319/63679c07-7711-455c-889f-1e0c289b2b1f)
+![IF2](https://github.com/user-attachments/assets/320381b0-6c8d-4a0f-b8a0-558a04fcdc10)
 
 
 
